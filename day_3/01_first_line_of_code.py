@@ -1,0 +1,5 @@
+print("noor")
+print("my first program")
+print(3+4)
+print("line of codes")
+print(3+4-7*2)

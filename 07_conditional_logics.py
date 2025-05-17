@@ -1,0 +1,8 @@
+==
+!=
+<
+>
+True
+False
+or
+not

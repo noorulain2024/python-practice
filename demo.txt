@@ -1,0 +1,3 @@
+this is a plateform 
+where i am practicing python
+my name is noorulain
